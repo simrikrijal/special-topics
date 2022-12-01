@@ -6,5 +6,5 @@ https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
 Team Members:
 
-Simrik Rijal (300340875)
-Sisir Ghimire Chettri (300340871)
+### Simrik Rijal (300340875)
+### Sisir Ghimire Chettri (300340871)
